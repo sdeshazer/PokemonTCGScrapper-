@@ -21,22 +21,20 @@ def scaper_test():
 
 
 def get_Cards(collection):
-    card_collection =  collection.findAll('td', class_="product")
+    card_collection_odd =  collection.findAll('tr', class_="odd")
+    card_collection_even = collection.findAll('tr', class_="even")
+    card_collection = card_collection_even + card_collection_odd
     for card in card_collection:
         card_name = card.find('div', class_="productDetail")
-        print(card.text.strip())
+        card_price = card.find('td', class_="marketPrice")
+        print(card_name.text.strip())
+        print(card_price.text.strip())
     print("total:")
     print(len(card_collection))
-   # print(card_collection)
     return card_collection
-    #price_of_card =  collection_cards_odd.find('td', attrs={'class': 'marketPrice'})
+
     #data.append((name_of_card, price_of_card.text.strip()))
 
-def parse_Cards(data):
-   # card_names = data.find_all('div', class_="productDetail")
-    card_prices = data.find_all('td', class_="marketPrice")
-  #  print(card_names)
-    print(card_prices)
 
 
 def write_data():

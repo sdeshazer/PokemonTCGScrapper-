@@ -1,101 +1,296 @@
-Abra,$0.43
-Arcanine,$2.36
-Bill,$0.37
-Bulbasaur,$2.86
-Chansey,$18.30
-Charmander,$2.04
-Clefairy,$20.61
-Computer Search,$4.39
-Devolution Spray,$2.76
-Diglett,$0.29
-Double Colorless Energy,$3.79
-Dratini,$1.31
-Dugtrio,$4.39
-Electrode,$3.70
-Energy Retrieval,$0.38
-Fighting Energy,$0.30
-Full Heal,$1.05
-Grass Energy,$0.20
-Gust of Wind,$0.27
-Haunter,$1.16
-Imposter Professor Oak,$4.01
-Ivysaur,$3.61
-Kadabra,$1.66
-Koffing,$0.31
-Lightning Energy,$0.31
-Machop,$0.34
-Magmar,$1.85
-Magneton,$15.83
-Metapod,$0.48
-Nidoking,$22.88
-Nidorino,$1.80
-Onix,$0.33
-Pidgey,$0.57
-PlusPower,$0.53
-Pokemon Breeder,$5.20
-Pokemon Flute,$1.93
-Poliwag,$0.31
-Poliwrath,$14.72
-Porygon,$1.52
-Professor Oak,$1.33
-Raichu,$35.39
-Rattata,$0.31
-Sandshrew,$0.30
-Seel,$0.89
-Starmie,$0.33
-Super Energy Removal,$3.61
-Switch,$0.31
-Venusaur,$86.59
-Vulpix,$0.39
-Water Energy,$0.36
-Zapdos,$21.36
-Alakazam,$28.22
-Beedrill,$4.27
-Blastoise,$108.27
-Caterpie,$0.56
-Charizard,$342.37
-Charmeleon,$1.41
-Clefairy Doll,$3.69
-Defender,$1.26
-Dewgong,$1.57
-Doduo,$0.44
-Dragonair,$9.35
-Drowzee,$0.43
-Electabuzz,$5.35
-Energy Removal,$0.38
-Farfetch'd,$0.83
-Fire Energy,$0.37
-Gastly,$0.36
-Growlithe,$0.81
-Gyarados,$22.37
-Hitmonchan,$12.84
-Item Finder,$7.67
-Jynx,$0.49
-Kakuna,$0.61
-Lass,$2.56
-Machoke,$0.47
-Magikarp,$1.36
-Magnemite,$0.41
-Maintenance,$1.48
-Mewtwo,$24.16
-Nidoran M,$0.30
-Ninetales,$20.23
-Pidgeotto,$5.12
-Pikachu,$3.16
-Pokedex,$0.34
-Pokemon Center,$1.39
-Pokemon Trader,$2.97
-Poliwhirl,$0.75
-Ponyta,$0.29
-Potion,$0.20
-Psychic Energy,$0.26
-Raticate,$1.68
-Revive,$1.41
-Scoop Up,$5.47
-Squirtle,$3.51
-Staryu,$0.24
-Super Potion,$0.24
-Tangela,$0.31
-Voltorb,$1.25
-Wartortle,$3.26
-Weedle,$0.28
+Pokemon Card Collection Data :,swsh08-fusion-strike
+Name,Rarity,Price
+Absol,Rare,$0.17
+Adventurer's Discovery,Uncommon,$1.44
+Araquanid,Rare,$0.15
+Arrokuda,Common,$0.06
+Baltoy,Common,$0.04
+Basculin,Common,$0.10
+Bewear,Uncommon,$0.03
+Boltund V,Ultra Rare,$1.19
+Boltund VMAX,Ultra Rare,$3.27
+Breloom,Uncommon,$0.05
+Bug Catcher,Uncommon,$0.04
+Bunnelby,Common,$0.03
+Carvanha,Common,$0.04
+Celebi V (Alternate Full Art),Ultra Rare,$27.97
+Centiskorch (49),Uncommon,$0.05
+Chandelure V (Full Art),Ultra Rare,$3.60
+Chandelure VMAX (Secret),Secret Rare,$8.93
+Charjabug,Uncommon,$0.06
+Chili & Cilan & Cress,Uncommon,$0.05
+Chili & Cilan & Cress (Secret),Secret Rare,$7.13
+Cinderace V (44),Ultra Rare,$1.04
+Clamperl,Common,$0.05
+Clawitzer,Uncommon,$0.05
+Clobbopus,Common,$0.04
+Code Card - Dragonite V Box,Code Card,$1.07
+Code Card - Fusion Strike Booster Pack,Code Card,$0.21
+Code Card - Fusion Strike Elite Trainer Box,Code Card,$0.39
+Code Card - Fusion Strike Single Pack Blister [Tepig],Code Card,—
+Code Card - Rapid Strike Urshifu VMAX Premium Collection,Code Card,$1.45
+Cook,Uncommon,$0.09
+Corviknight,Rare,$0.13
+Crabominable V,Ultra Rare,$1.17
+Cram-o-matic,Uncommon,$0.27
+Croconaw,Uncommon,$0.04
+Crossceiver,Uncommon,$0.06
+Dancer,Uncommon,$0.05
+Dancer (Secret),Secret Rare,$6.37
+Delcatty,Uncommon,$0.09
+Dewpider,Common,$0.03
+Dodrio V,Ultra Rare,$1.04
+Drakloak,Uncommon,$0.07
+Dreepy,Common,$0.05
+Dubwool,Uncommon,$0.07
+Durant,Common,$0.04
+Eelektross,Rare,$0.13
+Eldegoss,Uncommon,$0.04
+Elesa's Sparkle,Uncommon,$0.14
+Elesa's Sparkle (Secret),Secret Rare,$11.77
+Excadrill,Uncommon,$0.08
+Falinks (155),Common,$0.03
+Feraligatr,Holo Rare,$0.33
+Flaaffy (Secret),Secret Rare,$13.23
+Fusion Strike Energy,Uncommon,$0.18
+Galarian Cursola,Rare,$0.14
+Galarian Darumaka,Common,$0.02
+Galarian Meowth,Common,$0.05
+Galarian Perrserker,Uncommon,$0.05
+Garbodor,Uncommon,$0.06
+Genesect V (Alternate Full Art),Ultra Rare,$32.75
+Gengar V,Ultra Rare,$3.66
+Gengar VMAX (Alternate Art Secret),Secret Rare,$97.33
+Gligar,Common,$0.04
+Golem,Rare,$0.14
+Goomy,Common,$0.07
+Gossifleur,Common,$0.02
+Grapploct,Uncommon,$0.08
+Graveler,Uncommon,$0.05
+Greedent V (Alternate Full Art),Ultra Rare,$13.90
+Greedent VMAX,Ultra Rare,$2.27
+Greninja V,Ultra Rare,$1.31
+Growlithe,Common,$0.02
+Hariyama,Uncommon,$0.06
+Heatmor,Uncommon,$0.06
+Helioptile,Common,$0.04
+Huntail,Rare,$0.11
+Indeedee,Common,$0.07
+Inteleon VMAX,Ultra Rare,$3.00
+Jigglypuff,Common,$0.06
+Jynx,Common,$0.04
+Klefki,Common,$0.02
+Lapras,Uncommon,$0.09
+Latios,Rare,$0.12
+Lopunny,Uncommon,$0.05
+Luxio,Uncommon,$0.08
+Magcargo,Uncommon,$0.10
+Mandibuzz,Uncommon,$0.05
+Mantine,Common,$0.03
+Marill,Common,$0.06
+Mawile,Common,$0.04
+Meloetta,Rare,$0.17
+Meowth,Common,$0.03
+Mew V,Ultra Rare,$4.86
+Mew V (Full Art),Ultra Rare,$25.43
+Mew VMAX (Alternate Art Secret),Secret Rare,$85.02
+Minun,Common,$0.05
+Morpeko (109),Common,$0.02
+Mudkip,Common,$0.04
+Musharna,Uncommon,$0.05
+Ninetales (31),Uncommon,$0.15
+Oricorio,Rare,$0.16
+Pancham,Common,$0.04
+Panpour,Common,$0.02
+Pansear,Common,$0.05
+Phantump,Common,$0.06
+Plusle,Common,$0.03
+Power Tablet (Secret),Secret Rare,$8.33
+Pyukumuku,Uncommon,$0.07
+Qwilfish,Common,$0.02
+Rillaboom VMAX,Ultra Rare,$2.71
+Rotom,Common,$0.04
+Sandshrew,Common,$0.04
+Sandygast,Common,$0.06
+Schoolboy (Full Art),Ultra Rare,$3.51
+Schoolgirl,Uncommon,$0.04
+Schoolgirl (Secret),Secret Rare,$7.36
+Sharpedo,Uncommon,$0.08
+Shauna (Full Art),Ultra Rare,$7.11
+Shellder,Common,$0.03
+Shinx,Common,$0.03
+Sidney,Uncommon,$0.06
+Sidney (Secret),Secret Rare,$7.41
+Simipour,Uncommon,$0.04
+Simisear,Uncommon,$0.05
+Sizzlipede (47),Common,$0.03
+Skaters' Park,Uncommon,$0.07
+Sliggoo,Uncommon,$0.03
+Smeargle,Common,$0.03
+Snorlax,Common,$0.08
+Spongy Gloves,Uncommon,$0.04
+Starmie,Holo Rare,$0.31
+Steelix,Holo Rare,$0.26
+Swadloon,Uncommon,$0.07
+Togedemaru,Uncommon,$0.05
+Toxel (105),Common,$0.04
+Toxicroak,Rare,$0.15
+Toxtricity (108),Holo Rare,$0.34
+Trevenant,Uncommon,$0.10
+Tsareena V,Ultra Rare,$1.06
+Turtonator,Uncommon,$0.08
+Tyranitar V,Ultra Rare,$1.32
+Vikavolt,Rare,$0.12
+Voltorb,Common,$0.04
+Vulpix (28),Common,$0.05
+Wigglytuff,Uncommon,$0.08
+Wooloo (222),Common,$0.04
+Zarude,Uncommon,$0.06
+Zoroark,Uncommon,$0.07
+Accelgor,Rare,$0.06
+Appletun V,Ultra Rare,$1.03
+Arcanine,Rare,$0.19
+Azumarill,Rare,$0.15
+Barraskewda,Uncommon,$0.04
+Battle VIP Pass,Uncommon,$0.31
+Blissey,Rare,$0.18
+Boltund V (Full Art),Ultra Rare,$3.67
+Boltund VMAX (Secret),Secret Rare,$11.79
+Breloom V,Ultra Rare,$1.00
+Buneary,Common,$0.02
+Butterfree,Holo Rare,$0.49
+Caterpie,Common,$0.03
+Centiskorch (48),Rare,$0.09
+Chandelure V,Ultra Rare,$1.19
+Chandelure VMAX,Ultra Rare,$2.72
+Chansey,Common,$0.05
+Chewtle,Common,$0.02
+Chili & Cilan & Cress (Full Art),Ultra Rare,$4.01
+Cinderace V (43),Ultra Rare,$1.05
+Cinderace VMAX,Ultra Rare,$3.25
+Clauncher,Common,$0.04
+Claydol,Rare,$0.10
+Cloyster,Rare,$0.19
+Code Card - Fusion Strike 3 Pack Blister [Eevee],Code Card,$0.45
+Code Card - Fusion Strike Build & Battle Box,Code Card,$0.71
+Code Card - Fusion Strike Pokemon Center Elite Trainer Box,Code Card,$0.46
+Code Card - Hoopa V Box,Code Card,$0.32
+Code Card - Single Strike Urshifu VMAX Premium Collection,Code Card,$0.68
+Copperajah,Uncommon,$0.03
+Corvisquire,Uncommon,$0.04
+Crabominable V (Full Art),Ultra Rare,$2.91
+Croagunk,Common,$0.06
+Cross Switcher,Uncommon,$0.13
+Cufant,Common,$0.02
+Dancer (Full Art),Ultra Rare,$3.84
+Darkrai,Uncommon,$0.08
+Deoxys,Holo Rare,$0.36
+Diggersby,Uncommon,$0.08
+Dragapult,Holo Rare,$0.35
+Drednaw,Uncommon,$0.11
+Drilbur,Common,$0.02
+Dunsparce,Uncommon,$0.07
+Eelektrik,Uncommon,$0.06
+Eevee,Common,$0.07
+Electrode,Rare,$0.11
+Elesa's Sparkle (Full Art),Ultra Rare,$14.92
+Espeon VMAX (Alternate Art Secret),Secret Rare,$92.61
+Falinks (154),Uncommon,$0.02
+Farewell Bell,Uncommon,$0.03
+Fire Energy (Secret),Secret Rare,$13.86
+Frosmoth,Uncommon,$0.06
+Galarian Corsola,Common,$0.05
+Galarian Darmanitan,Uncommon,$0.05
+Galarian Linoone,Uncommon,$0.13
+Galarian Obstagoon,Holo Rare,$0.78
+Galarian Zigzagoon,Common,$0.05
+Genesect V,Ultra Rare,$7.11
+Genesect V (Full Art),Ultra Rare,$15.43
+Gengar VMAX,Ultra Rare,$15.01
+Geodude,Common,$0.06
+Gliscor,Uncommon,$0.03
+Goodra,Rare,$0.15
+Gorebyss,Rare,$0.17
+Granbull,Rare,$0.12
+Grass Energy (Secret),Secret Rare,$10.65
+Greedent V,Ultra Rare,$1.23
+Greedent V (Full Art),Ultra Rare,$4.00
+Greedent VMAX (Secret),Secret Rare,$7.62
+Grimmsnarl,Holo Rare,$0.29
+Grubbin,Common,$0.03
+Hawlucha,Uncommon,$0.05
+Heliolisk,Uncommon,$0.06
+Hoopa V (Full Art),Ultra Rare,$4.60
+Impidimp,Common,$0.04
+Inteleon V,Ultra Rare,$2.20
+Inteleon VMAX (Alternate Art Secret),Secret Rare,$33.86
+Judge,Uncommon,$0.16
+Kangaskhan,Rare,$0.14
+Landorus,Holo Rare,$0.19
+Latias,Rare,$0.18
+Leavanny,Rare,$0.16
+Lucario V,Ultra Rare,$1.26
+Luxray,Rare,$0.16
+Makuhita,Common,$0.02
+Mankey,Common,$0.02
+Maractus,Rare,$0.12
+Marshtomp,Uncommon,$0.10
+Melmetal,Holo Rare,$0.24
+Meltan,Common,$0.04
+Metapod,Uncommon,$0.04
+Mew V (Alternate Full Art),Ultra Rare,$52.81
+Mew VMAX,Ultra Rare,$28.72
+Mew VMAX (Secret),Secret Rare,$55.95
+Morgrem,Uncommon,$0.09
+Morpeko (179),Common,$0.08
+Munna,Common,$0.04
+Ninetales (30),Uncommon,$0.08
+Onix,Common,$0.03
+Palossand,Rare,$0.10
+Pangoro,Uncommon,$0.06
+Pansage,Common,$0.03
+Persian,Uncommon,$0.08
+Pikachu V,Ultra Rare,$1.28
+Power Tablet,Uncommon,$0.19
+Primeape,Uncommon,$0.02
+Quick Ball,Uncommon,$0.40
+Rillaboom V,Ultra Rare,$0.90
+Rookidee,Common,$0.04
+Sandaconda V (Alternate Full Art),Ultra Rare,$8.26
+Sandslash,Uncommon,$0.07
+Schoolboy,Uncommon,$0.03
+Schoolboy (Secret),Secret Rare,$5.99
+Schoolgirl (Full Art),Ultra Rare,$5.57
+Sewaddle,Common,$0.06
+Shauna,Uncommon,$0.06
+Shauna (Secret),Secret Rare,$9.57
+Shelmet,Common,$0.02
+Shroomish,Common,$0.04
+Sidney (Full Art),Ultra Rare,$2.82
+Sigilyph,Common,$0.03
+Simisage,Uncommon,$0.03
+Sizzlipede (46),Common,$0.05
+Skarmory,Common,$0.03
+Skitty,Common,$0.04
+Slugma,Common,$0.03
+Snom,Common,$0.05
+Snubbull,Common,$0.05
+Stantler,Uncommon,$0.11
+Staryu,Common,$0.04
+Stufful,Common,$0.03
+Swampert,Holo Rare,$0.33
+Totodile,Common,$0.03
+Toxel (106),Common,$0.09
+Toxtricity (107),Holo Rare,$0.27
+Training Court (Secret),Secret Rare,$9.69
+Trubbish,Common,$0.05
+Tsareena V (Full Art),Ultra Rare,$2.90
+Tynamo,Common,$0.02
+Victini,Uncommon,$0.06
+Virizion,Rare,$0.10
+Vullaby,Common,$0.03
+Vulpix (29),Common,$0.05
+Wooloo (221),Common,$0.05
+Yveltal,Rare,$0.16
+Zeraora,Rare,$0.15
+Zorua,Common,$0.05

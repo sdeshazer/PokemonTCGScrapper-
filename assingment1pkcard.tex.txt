@@ -1,0 +1,104 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+\title{Assignment 1: Pokemon Card Scraper }
+\author{Samantha Deshazer}
+\date{\today}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\pagenumbering{gobble}
+
+\begin{document}
+\maketitle
+\includegraphics[scale=.3, angle=20]{gengar.JPG}
+\includegraphics[scale=.375, angle=-20]{pikachu.JPG}
+\sffamily
+
+This assignment scrapes the TCG Player web page (TCGPlayer.com) for 
+Pokemon Cards within sets and series of interest. Each card's name, rarity,
+price and image URL is saved in CSV file format (index.csv) which contains 2,044 tuples.
+
+\section{Why?}
+
+\begin{wrapfigure}[10]{l}{0.36\textwidth}
+\includegraphics[width=0.9\linewidth]{collection.jpg} 
+\caption{My collection.}
+\label{fig:wrapfig}
+\end{wrapfigure}
+I have been an avid collector of Pokemon Cards, including sets dating back from 1996 to present day. 
+Recently the market has blown up with many more people buying, selling and collecting 
+during the Covid-19 pandemic. Many millennial's within the age range of late 20's to early 30's
+wish to re-live their childhoods and can afford to do so. Watching this trend, it has been increasingly difficult
+for me to collect during the pandemic years due to the surge causing a short in supply to stores. 
+
+
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=0.5]{dupes.jpg}
+\caption{My collection of duplicate cards.}
+\end{figure}
+
+
+I have many duplicate copies of cards, ranging from all my sets that have been sitting in boxes (figure 2) for decades.
+In light of the recent events, I have decided to start selling a little. This program can be useful in determining which cards,
+among my complete and incomplete sets, to sell or buy. 
+
+\section{Input and Queries}
+The following sets are of interest to me as of date, so I used these sets are inputs:
+\begin{enumerate}
+  \item shield fusion strike (2021)
+  \item celebrations 25th anniversary  (2021)
+  \item celebrations classic collection (2021) (90's reprints)
+  \item evolving skies (2021)
+  \item chilling reign (2020)
+  \item battle styles (2020)
+  \item first partner starter pack (2020)
+  \item shinning fates (2019)
+  \item shinning fates shiny vault (2019)
+  \item vivid voltage (2020)
+  \item sword and shield base set (2019)
+  \item skyridge (2003)
+  \item sandstorm (2003)
+  \item ruby and sapphire (2003)
+\end{enumerate}
+
+Note that market prices fluctuate often and that it is assumed the cards are 
+not graded and are of near mint condition. Rarity within the series is also not a strong factor for determining price, market price reflects popularity
+(example: Charizard is coined but not considered rare, yet goes for highest price in most sets).
+\newline
+
+\textbf{The list of price queries conducted: }
+\begin{enumerate}
+  \item $$10 < price Query < 100 $$
+  \item $$100 < price Query < 150$$
+  \item $$150 < price Query < 200$$
+  \item $$200 < price Query < 300$$
+  \item $$300 < price Query < 400$$
+  \item $$400 < price Query < maximum Float Value$$
+\end{enumerate}
+
+
+\section{results}
+
+\includegraphics[scale=.375]{articuno h3.JPG}\newline
+Figure 3:Skyridge Articuno H3
+\newline
+\newline
+To my surprise, the most expensive card among these sets of interest is the card depicted in figure 3. Articuno H3 of the Skyridge series has a market price of 611.48 and was found by conducting a price query of greater than 400. It was found that the top five most expensive cards were from the Skyridge series. 
+
+All price queries returned only skyridge for prices over 200 dollars. To also my surprise, second and third highest sets were recently released. This maybe due to the collection boom we are currently seeing. 
+\newline
+\newline
+\textbf{Top three most valuable sets (prices 150 and above):}
+\begin{enumerate}
+  \item skyridge (2003)
+  \item evolving skies (2021)
+  \item vivid voltage (2020)
+\end{enumerate}
+
+
+I plan on using this simple scraper program in my market decisions and adding more features in the future. 
+\end{document}
